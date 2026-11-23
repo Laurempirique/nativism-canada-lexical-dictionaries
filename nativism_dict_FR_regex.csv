@@ -20,7 +20,7 @@ cultural_dim,(?ix)^(?=.*\b(?:immigrant(?:e|es|s)?|immigration|immigré(?:e|es|s)
 ,(?i)\bfrancis(?:er|e|é|ée|és|ées|ation|ations)\b(?!.*sous\s+pression),Francisation
 ,(?i)\b(français\w*|langues?\s+français\w*)\b(?!.*\b(examen|cheminement\s+scolaire|cour\s+suprême)\b),La langue française
 cultural_dim,(?i)\b(?:jus\s+sanguinis|droit\s+du\s+sang|principe\s+du\s+sang|principe\s+d’ascendance|principe\s+de\s+filiation|jus\s+soli|droit\s+du\s+sol|principe\s+du\s+sol|citoyennet[ée]\s+de\s+naissance|droit\s+du\s+sol\s+à\s+la\s+naissance)\b,Jus sanguinis
-,(?i)\\b(citoyennet[ée]s?|citoyennis\\w*|citoyen(?:ne)?s?)\\b,Citoyenneté
+,(?i)\b(citoyennet[ée]s?|citoyennis\w*|citoyen(?:ne)?s?)\b,Citoyenneté
 cultural_dim,(?ix)^(?=.*?\b(?:signes?\s+religieux|symboles?\s+religieux|port\s+de\s+signes?\s+religieux|voile[s]?|hijab|hidjab|niqab|burqa|kipp?a|kirpan|turban|croix)\b)(?=.*?\b(?:interdi\w*|prohib\w*|bann\w*|proscrit\w*|empêch\w*|refus\w*|exclu\w*|oblig\w*\s+(?:de|à)\s+(?:retir\w*|ôter)|sans\s+signes?\s+religieux|neutralit[ée]\s+religieuse\s+obligatoire|retir\w*\s+les?\s+signes?\s+religieux|loi|balises?|cadre|réglementation|encadrement|normes?|adopter\s+une\s+loi|adoptera|prévoit|prévoient)\b)(?=.*?\b(?:personnel|employ[ée]s?|fonctionnaires?|agents?|enseignant\w*|professeur\w*|policier\w*|juges?|magistrat\w*|médecin\w*|infirmi\w*|éducateur\w*|étudiant\w*|usagers?|citoyen\w*|individus?|personnes?\s+en\s+autorité)\b)(?!.*?\b(?:accepte\w*|autorise\w*|tol[ée]re\w*|libert[ée]\s+d['’]expr(?:ession|imer)?|libert[ée]\s+de\s+religion)\b).*,Interdiction du port de signes religieux
 ,(?ix)(?=.*\baccommodements?\b)(?=.*\b(?:religieux|raisonnables?)\b).*,
 ,(?i)\bnos\s+églises\b,
