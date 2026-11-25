@@ -16,7 +16,7 @@ The dictionaries operationalize the definition of nativism proposed in the thesi
 
 On this view, a society's cultural diversity sits on a **spectrum running from nativism to multiculturalism**. Each pole corresponds to a movement that pushes society toward its own side: nativism toward convergence around a national myth, multiculturalism toward recognizing and maintaining plurality.
 
-What places a position on the nativist side is **the goal of convergence around a national myth**, not how much is demanded of newcomers. A policy can demand a great deal (adherence to rights and democratic institutions, for example) without aiming at a national myth; conversely, a modest measure can aim at that convergence.
+What places a position on the nativist side is **the demand for cultural homogeneity around what is held to make the nation distinct from other nations**. The content of that distinctiveness varies (language, religion, history, even liberal values when they are presented as what sets the nation apart). The criterion is the definition of the nation, not the content of the culture. That definition is itself debated among the members of the political community; the dictionaries measure the positions taken in that debate, not its outcome.
 
 The definition is descriptive. It sets no threshold of "acceptable" diversity. It measures where political actors stand on the spectrum; what is desirable is left to democratic debate.
 
