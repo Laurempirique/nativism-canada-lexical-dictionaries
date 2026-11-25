@@ -2,7 +2,7 @@
 
 *[Version française](README.fr.md)*
 
-This repository contains two regular-expression dictionaries (French and English) used to identify **nativist sentences** in the electoral manifestos of Canadian provincial political parties. They were built for the master's thesis *Le nativisme comme réponse au populisme : proposition conceptuelle et théorique mise à l'épreuve en contexte canadien* (Nativism as a response to populism: a conceptual and theoretical proposal tested in the Canadian context), UQAM, Sociology, 2026.
+This repository contains two regular-expression dictionaries (French and English) used to identify **nativist sentences** in the electoral manifestos of Canadian provincial political parties. They were built for the master's thesis *Le nativisme comme réponse au populisme : proposition conceptuelle et théorique mise à l'épreuve en contexte canadien* (Nativism as a response to populism: a conceptual and theoretical proposal tested in the Canadian context), UQAM, Sociology, 2026. They adapt and extend the nativism dictionary developed by Habersack and Werner (2023) for Austrian, German and Swiss election manifestos.
 
 ---
 
