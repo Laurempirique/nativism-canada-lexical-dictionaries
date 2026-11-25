@@ -2,7 +2,7 @@
 
 *[English version](README.md)*
 
-Ce dépôt contient deux dictionnaires d'expressions régulières (français et anglais) qui servent à repérer des **phrases nativistes** dans des programmes électoraux de partis politiques provinciaux canadiens. Ils ont été construits pour le mémoire de maîtrise *Le nativisme comme réponse au populisme : proposition conceptuelle et théorique mise à l'épreuve en contexte canadien* (UQAM, sociologie, 2026).
+Ce dépôt contient deux dictionnaires d'expressions régulières (français et anglais) qui servent à repérer des **phrases nativistes** dans des programmes électoraux de partis politiques provinciaux canadiens. Ils ont été construits pour le mémoire de maîtrise *Le nativisme comme réponse au populisme : proposition conceptuelle et théorique mise à l'épreuve en contexte canadien* (UQAM, sociologie, 2026). Ils adaptent et prolongent le dictionnaire du nativisme développé par Habersack et Werner (2023) pour des programmes électoraux autrichiens, allemands et suisses.
 
 ---
 
