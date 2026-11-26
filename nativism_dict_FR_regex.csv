@@ -6,7 +6,7 @@ Regex,Concept
 (?ix)^(?=.*\bculture\b)(?=.*\b(?:forte|digne)\b).*,Culture qualifiée de forte ou digne (sans référence nationale exigée)
 (?ix)^(?=.*\bcohésion\s+sociale?s?\b).*,Le terme cohésion sociale
 "(?ix)\b(?:nation|Québec|Québécois(?:e|es|s)?|Canada|Canadien(?:ne|nes|s)?|peuple|langue|culture|histoire|patrimoine)\b(?:\W+\w+){0,3}?\W+\bunique\b","« Unique » associé à la nation, au peuple, à la langue, à la culture ou à l’histoire"
-(?ix)^(?=.*\b(?:Québec|Québécois(?:e|es|s)?|Canada|Canadien(?:ne|nes|s)?|province|provincial(?:e|es|s)?|nation(?:ale|ales|als)?)\b)(?=.*\b(?:valeurs?)\b)(?=.*\b(?:fondamentales?|communes?|principes?)\b)(?!.*\bvaleurs\s+démocratiques\b).*,Références aux valeurs nationales
+(?ix)^(?=.*\b(?:Québec|Québécois(?:e|es|s)?|Canada|Canadien(?:ne|nes|s)?|province|provincial(?:e|es|s)?|(?<!assemblée\s)nation(?:ale|ales|als)?)\b)(?=.*\b(?:valeurs?)\b)(?=.*\b(?:fondamentales?|communes?|principes?)\b).*,"Valeurs nationales (fondamentales, communes ou principes), y compris les valeurs démocratiques"
 (?ix)^(?=.*\bvaleurs?\s+communes?\b).*,Valeurs communes
 "(?i)\bvaleurs?\s+(?:\w+\s+){0,2}?(?:qu[ée]b[ée]coises?|canadiennes?)\b|\bvaleurs?\s+(?:du\s+Qu[ée]bec|du\s+Canada|de\s+la\s+nation)\b","Valeurs québécoises, canadiennes ou nationales"
 (?i)^(?=.*\bnos\s+valeurs\b)(?=.*\b(?:Qu[ée]bec|Qu[ée]b[ée]cois(?:e|es|s)?|Canada|Canadien(?:ne|nes|s)?|nation(?:ale|ales|aux)?)\b).*,« Nos valeurs » associé à une référence nationale
