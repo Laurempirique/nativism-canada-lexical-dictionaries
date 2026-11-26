@@ -41,4 +41,4 @@ Regex,Concept
 (?i)\b(?:excision(?:s)?|mutilations?\s+g[ée]nitales?\s+(?:f[ée]minines?)?)\b,Excision
 (?i)\b(?:halal(?:s)?|kasher(?:s)?|casher(?:s)?|kosher(?:s)?)\b,Halal et Kosher
 (?i)\b(?:shari(?:a|['’]?ah)|charia(?:s)?|charia[ïi]que(?:s)?)\b,Charia
-(?i)\b(?:arbitrage(?:s)?\s+religieux|tribunaux?\s+religieux|cours?\s+religieuses|loi(?:s)?\s+islamiques?|charia(?:s)?|beth\s+din(?:s)?|panchayat(?:s)?|jirga(?:s)?|tribunaux?\s+coutumiers?|justice\s+(?:tribale|traditionnelle)(?:s)?)\b,"Justice religieuse, coutumière ou traditionnelle"
+(?i)\b(?:arbitrages?\s+religieux|tribuna(?:l|ux)\s+religieux|cours?\s+religieuses?|lois?\s+islamiques?|charias?|beth\s+dins?|panchayats?|jirgas?)\b,"Justice religieuse ou ordres juridiques parallèles (charia, beth din, jirga, panchayat)"
