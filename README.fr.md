@@ -18,8 +18,6 @@ Dans cette perspective, la diversité culturelle d'une société se situe sur un
 
 Ce qui situe une position du côté nativiste, c'est **l'exigence d'homogénéité culturelle autour de ce qui est censé distinguer la nation des autres nations**. Le contenu de cette distinction varie (langue, religion, histoire, voire valeurs libérales lorsqu'elles sont présentées comme ce qui distingue la nation). Le critère est la définition de la nation, non le contenu de la culture. Cette définition fait elle-même l'objet de débats entre les membres de la communauté politique; les dictionnaires mesurent les positions prises dans ce débat, pas son issue.
 
-La définition est descriptive. Elle ne fixe aucun seuil de diversité « acceptable ». Elle sert à mesurer où les acteurs politiques se situent sur le spectre, la question de ce qui est souhaitable étant tranchée par le débat démocratique.
-
 Une phrase est codée comme nativiste lorsqu'elle exprime l'une ou l'autre de ces idées : la diversité est excessive ou menaçante, la culture nationale doit être défendue ou affirmée, ou l'État doit agir pour réduire la diversité (par la politique culturelle, linguistique ou religieuse, ou par le contrôle de l'immigration).
 
 <!-- À COMPLÉTER : ajouter le numéro de section ou de page du mémoire où la définition est développée. -->
