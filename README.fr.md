@@ -55,12 +55,11 @@ Les deux dictionnaires ont été construits séparément et reflètent les déba
 
 | Fichier | Description |
 |---|---|
-| `nativism_dict_FR_regex.csv` | Dictionnaire français : `category`, `Regex`, `Concept` |
-| `nativism_dict_ENG_regex.csv` | Dictionnaire anglais : `category`, `Regex`, `Concept`, `Rule` (description en clair de chaque motif et de ses exclusions) |
+| `nativism_dict_FR_regex.csv` | Dictionnaire français : `Regex` (le motif), `Concept` (ce qu'il repère) |
+| `nativism_dict_ENG_regex.csv` | Dictionnaire anglais : `Regex` (le motif), `Concept` (ce qu'il repère) |
 
 Notes :
 
-- La colonne `category` regroupe les motifs par thème; elle ne sert pas au calcul du score.
 - Les motifs utilisent des drapeaux en ligne (`(?i)` insensible à la casse, `(?x)` mode étendu), des *lookaheads* positifs et négatifs, et des limites de mots (`\b`). <!-- À COMPLÉTER : moteur utilisé (ex. stringr / ICU dans R, ou PCRE avec perl = TRUE). -->
 
 ---
