@@ -24,18 +24,6 @@ Une phrase est codée comme nativiste lorsqu'elle exprime l'une ou l'autre de ce
 
 <!-- À COMPLÉTER : ajouter le numéro de section ou de page du mémoire où la définition est développée. -->
 
-### Dimensions (à titre indicatif)
-
-Chaque motif est rattaché à une dimension (colonne `category`). **Ces dimensions ne servent qu'à organiser les motifs et n'ont pas été utilisées dans l'analyse du mémoire.** Seul le score global compte (voir la section 4).
-
-| Dimension | Contenu |
-|---|---|
-| `cultural_dim` | Attachement à la culture, à l'identité, aux traditions et à l'histoire nationales; hostilité envers les « ennemis » de la nation; immigration perçue comme excessive; patriotisme; grand remplacement; déportation |
-| `political_rights_dim` | Restriction de l'immigration, plafonds, révocation de statut, migrants « illégaux », refus d'intégration, culture nationale dominante, auto-ségrégation |
-| `economic_dim` | Immigrants qui « prennent les emplois », fardeau fiscal, préférence nationale (« X first ») |
-| `religious_dim` | Islam associé à l'immigration ou au danger, voile, charia, fondamentalisme, abattage rituel, etc. |
-| `law_and_order_dim` | Groupes étrangers ou ethniques associés au crime; ordres juridiques parallèles |
-
 ---
 
 ## 2. Une mise en garde importante : ces dictionnaires ne sont pas universels
@@ -72,7 +60,7 @@ Les deux dictionnaires ont été construits séparément et reflètent les déba
 
 Notes :
 
-- Dans le fichier français, certaines lignes n'ont pas de valeur dans `category`. Comme les dimensions ne servent pas au calcul du score, ces lignes comptent normalement dans le score global.
+- La colonne `category` regroupe les motifs par thème; elle ne sert pas au calcul du score.
 - Les motifs utilisent des drapeaux en ligne (`(?i)` insensible à la casse, `(?x)` mode étendu), des *lookaheads* positifs et négatifs, et des limites de mots (`\b`). <!-- À COMPLÉTER : moteur utilisé (ex. stringr / ICU dans R, ou PCRE avec perl = TRUE). -->
 
 ---
