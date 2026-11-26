@@ -18,8 +18,6 @@ On this view, a society's cultural diversity sits on a **spectrum running from n
 
 What places a position on the nativist side is **the demand for cultural homogeneity around what is held to make the nation distinct from other nations**. The content of that distinctiveness varies (language, religion, history, even liberal values when they are presented as what sets the nation apart). The criterion is the definition of the nation, not the content of the culture. That definition is itself debated among the members of the political community; the dictionaries measure the positions taken in that debate, not its outcome.
 
-The definition is descriptive. It sets no threshold of "acceptable" diversity. It measures where political actors stand on the spectrum; what is desirable is left to democratic debate.
-
 A sentence is coded as nativist when it expresses one of these ideas: diversity is excessive or threatening; the national culture must be defended or asserted; or the state should act to reduce diversity, whether through cultural, linguistic or religious policy or through immigration control.
 
 <!-- TO COMPLETE: thesis section or page where the definition is developed. -->
