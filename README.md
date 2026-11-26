@@ -53,12 +53,11 @@ The two dictionaries were built separately and reflect the debates of each lingu
 
 | File | Description |
 |---|---|
-| `nativism_dict_FR_regex.csv` | French dictionary: `category`, `Regex`, `Concept` |
-| `nativism_dict_ENG_regex.csv` | English dictionary: `category`, `Regex`, `Concept`, `Rule` (plain-language description of each pattern and its exclusions) |
+| `nativism_dict_FR_regex.csv` | French dictionary: `Regex` (the pattern), `Concept` (what it captures) |
+| `nativism_dict_ENG_regex.csv` | English dictionary: `Regex` (the pattern), `Concept` (what it captures) |
 
 Notes:
 
-- The `category` column groups patterns by theme; it is not used to compute the score.
 - Patterns use inline flags (`(?i)` case-insensitive, `(?x)` extended mode), positive and negative lookaheads, and word boundaries (`\b`). <!-- TO COMPLETE: regex engine used (e.g. stringr / ICU in R, or PCRE with perl = TRUE). -->
 
 ---
