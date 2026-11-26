@@ -24,18 +24,6 @@ A sentence is coded as nativist when it expresses one of these ideas: diversity 
 
 <!-- TO COMPLETE: thesis section or page where the definition is developed. -->
 
-### Dimensions (indicative only)
-
-Each pattern belongs to one dimension (column `category`). **The dimensions only organize the patterns and were not used in the thesis analysis.** Only the overall score matters (see section 4).
-
-| Dimension | Content |
-|---|---|
-| `cultural_dim` | Attachment to national culture, identity, tradition and history; hostility toward "enemies" of the nation; immigration framed as overwhelming; patriotism; great replacement; deportation |
-| `political_rights_dim` | Restricting immigration, caps, status revocation, migrants framed as "illegal", refusal to integrate, dominant national culture, self-segregation |
-| `economic_dim` | Immigrants "taking jobs", fiscal burden, national preference ("X first") |
-| `religious_dim` | Islam linked to immigration or danger, veils, sharia, fundamentalism, ritual slaughter, etc. |
-| `law_and_order_dim` | Foreign or ethnic groups linked to crime; parallel legal orders |
-
 ---
 
 ## 2. Important caveat: these dictionaries are not universal
@@ -72,7 +60,7 @@ The two dictionaries were built separately and reflect the debates of each lingu
 
 Notes:
 
-- In the French file, some rows have an empty `category`. Since dimensions are not used to compute the score, these rows count toward the overall score like any other.
+- The `category` column groups patterns by theme; it is not used to compute the score.
 - Patterns use inline flags (`(?i)` case-insensitive, `(?x)` extended mode), positive and negative lookaheads, and word boundaries (`\b`). <!-- TO COMPLETE: regex engine used (e.g. stringr / ICU in R, or PCRE with perl = TRUE). -->
 
 ---
